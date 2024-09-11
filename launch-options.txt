@@ -1,7 +1,0 @@
-Copy and paste the following into the Launch Options window for CS:GO:
---------------------------------------------------------------------------
-+exec autoexec.cfg -novid -nojoy -refresh 144 -high
---------------------------------------------------------------------------
-
-Notes:
-* "-threads 4" appeared to be causing lock-ups on a machine with 4 total cores (i5-6600k).
